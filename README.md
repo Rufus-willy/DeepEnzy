@@ -51,6 +51,9 @@ python run_inference.py --csv_file <input_csv_file> --output_file <output_csv_fi
 
 - Please cite the paper "[DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D structures](https://www.biorxiv.org/content/10.1101/2023.12.09.570923v2)"
 
+### 数据文件说明
+- `example` 和 `parameters` 文件夹中参数的文件未上传，你可以从 [这里](https://figshare.com/articles/dataset/DeepEnzyme/25771062) 下载这些文件，并放入到相应的目录中即可运行。
+
 # Contributors
 
 [(Back to top)](#table-of-contents)
