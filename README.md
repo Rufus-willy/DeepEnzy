@@ -1,6 +1,6 @@
 <h1 align="center">DeepEnzyme</h1>
 
-本项目进行了更新，新增了推理脚本 `run_inference.py`，大幅降低了模型的使用难度。现在，用户可以更便捷地使用本模型进行酶周转数预测。
+本项目对DeepEnzyme（https://github.com/hongzhonglu/DeepEnzyme ）进行了小范围的改动，新增了推理脚本 `run_inference.py`，降低了模型的使用难度。现在，用户可以更便捷地使用本模型进行酶周转数预测。
 
 # Table of contents
 - [Table of contents](#table-of-contents)
